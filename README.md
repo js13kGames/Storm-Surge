@@ -1,5 +1,7 @@
 # StormSurge
-This is the game I made for js13kGames.  Storm Surge is about keeping a thunderstorm from interrupting your viewing of cat GIFs, memes, and maybe work.
+This is the game I made for js13kGames.  Storm Surge is about keeping a thunderstorm from interrupting your viewing of cat GIFs, memes, and maybe work.  
+<br />
+__Play it here: https://yorkcs.com/games/StormSurge/index.html__
 
 # Goal
 Don't let the lightning strike within the fence of your home.
